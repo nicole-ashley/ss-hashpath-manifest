@@ -1,0 +1,17 @@
+{
+    "name": "nikrolls/ss-hashpath-manifest",
+    "type": "silverstripe-vendormodule",
+    "require": {
+        "silverstripe/framework": "4.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nik Rolls",
+            "email": "nik@rolls.cc"
+        }
+    ]
+}
